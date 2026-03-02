@@ -32,13 +32,13 @@ workflows:
 
       - name: Apply provisioning to project
         script: |
-          xcode-project use-profiles --project "CENC.xcodeproj"
+          xcode-project use-profiles --project "CÉNC.xcodeproj"
 
       - name: Build iOS ipa
         script: |
           xcode-project build-ipa \
-            --project "CENC.xcodeproj" \
-            --scheme "CENC" \
+            --project "CÉNC.xcodeproj" \
+            --scheme "CÉNC" \
             --config Release
 
     artifacts:
