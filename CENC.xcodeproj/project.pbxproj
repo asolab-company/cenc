@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		9C889B872F4CB1A40003EA21 /* CÉNC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CÉNC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C889B872F4CB1A40003EA21 /* CENC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CENC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		9C889B892F4CB1A40003EA21 /* CÉNC */ = {
+		9C889B892F4CB1A40003EA21 /* CENC */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "CÉNC";
+			path = CENC;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		9C889B7E2F4CB1A40003EA21 = {
 			isa = PBXGroup;
 			children = (
-				9C889B892F4CB1A40003EA21 /* CÉNC */,
+				9C889B892F4CB1A40003EA21 /* CENC */,
 				9C889B882F4CB1A40003EA21 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		9C889B882F4CB1A40003EA21 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9C889B872F4CB1A40003EA21 /* CÉNC.app */,
+				9C889B872F4CB1A40003EA21 /* CENC.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9C889B862F4CB1A40003EA21 /* CÉNC */ = {
+		9C889B862F4CB1A40003EA21 /* CENC */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9C889B922F4CB1A60003EA21 /* Build configuration list for PBXNativeTarget "CÉNC" */;
+			buildConfigurationList = 9C889B922F4CB1A60003EA21 /* Build configuration list for PBXNativeTarget "CENC" */;
 			buildPhases = (
 				9C889B832F4CB1A40003EA21 /* Sources */,
 				9C889B842F4CB1A40003EA21 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				9C889B892F4CB1A40003EA21 /* CÉNC */,
+				9C889B892F4CB1A40003EA21 /* CENC */,
 			);
-			name = "CÉNC";
+			name = CENC;
 			packageProductDependencies = (
 			);
 			productName = "CÉNC";
-			productReference = 9C889B872F4CB1A40003EA21 /* CÉNC.app */;
+			productReference = 9C889B872F4CB1A40003EA21 /* CENC.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9C889B822F4CB1A40003EA21 /* Build configuration list for PBXProject "CÉNC" */;
+			buildConfigurationList = 9C889B822F4CB1A40003EA21 /* Build configuration list for PBXProject "CENC" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9C889B862F4CB1A40003EA21 /* CÉNC */,
+				9C889B862F4CB1A40003EA21 /* CENC */,
 			);
 		};
 /* End PBXProject section */
@@ -252,7 +252,7 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = CENC;
+				INFOPLIST_KEY_CFBundleDisplayName = "CÉNC";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -299,7 +299,7 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = CENC;
+				INFOPLIST_KEY_CFBundleDisplayName = "CÉNC";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -336,7 +336,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9C889B822F4CB1A40003EA21 /* Build configuration list for PBXProject "CÉNC" */ = {
+		9C889B822F4CB1A40003EA21 /* Build configuration list for PBXProject "CENC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9C889B902F4CB1A60003EA21 /* Debug */,
@@ -345,7 +345,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9C889B922F4CB1A60003EA21 /* Build configuration list for PBXNativeTarget "CÉNC" */ = {
+		9C889B922F4CB1A60003EA21 /* Build configuration list for PBXNativeTarget "CENC" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9C889B932F4CB1A60003EA21 /* Debug */,
