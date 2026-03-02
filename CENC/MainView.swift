@@ -81,7 +81,6 @@ struct MainView: View {
                 }
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity)
-            .padding(.bottom, tabBarHeight)
 
             CustomTabBar(selectedTab: $selectedTab)
         }
